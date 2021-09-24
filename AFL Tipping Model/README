@@ -1,0 +1,6 @@
+-- Retrospective AFL tipping model for the 2019 season
+-- Author: Kieran Dale
+
+Model takes a range of inputs based on a team's form, rolling averages for disposals, tackles, marks and other recorded statistics.
+Different machine learning algorithms are used to train models which predict the likelihood of the home team winning.
+This exercise is based on the fascinating and well-explained articles detailing AFL statistical models here: https://www.aflgains.com/
