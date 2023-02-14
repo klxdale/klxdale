@@ -2,7 +2,7 @@
 -- @klxdale --
 --------------
 
-- Analyst and data scientist
+- Data scientist and data analyst
 - Predictive modelling/optimisation, data-driven storytelling
 - Passionate about optimisation & machine learning techniques and using data science to benefit society
 
